@@ -1,0 +1,5 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Ninject\bin\Debug\Sharp.Ioc.Ninject.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Ninject\bin\Debug\Sharp.Ioc.Ninject.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Ninject\obj\Debug\Sharp.Ioc.Ninject.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Ninject\obj\Debug\Sharp.Ioc.Ninject.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Ninject\obj\Debug\Sharp.Ioc.Ninject.csprojResolveAssemblyReference.cache

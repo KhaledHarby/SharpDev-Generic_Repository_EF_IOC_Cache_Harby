@@ -1,0 +1,12 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Sharp.Ioc.Autofac.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Sharp.Ioc.Autofac.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Autofac.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Sharp.Ioc.Base.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Sharp.Ioc.Base.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Autofac.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\obj\Debug\Sharp.Ioc.Autofac.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\obj\Debug\Sharp.Ioc.Autofac.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\obj\Debug\Sharp.Ioc.Autofac.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Autofac\bin\Debug\Common.Logging.dll

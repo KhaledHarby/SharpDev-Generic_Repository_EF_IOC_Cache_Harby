@@ -1,0 +1,5 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.SimpleInjector\bin\Debug\Sharp.Ioc.SimpleInjector.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.SimpleInjector\bin\Debug\Sharp.Ioc.SimpleInjector.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.SimpleInjector\obj\Debug\Sharp.Ioc.SimpleInjector.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.SimpleInjector\obj\Debug\Sharp.Ioc.SimpleInjector.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.SimpleInjector\obj\Debug\Sharp.Ioc.SimpleInjector.csprojResolveAssemblyReference.cache

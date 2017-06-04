@@ -1,0 +1,8 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\bin\Debug\Sharp.Ioc.Base.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\bin\Debug\Sharp.Ioc.Base.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\obj\Debug\Sharp.Ioc.Base.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\obj\Debug\Sharp.Ioc.Base.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\obj\Debug\Sharp.Ioc.Base.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Base\bin\Debug\Common.Logging.dll

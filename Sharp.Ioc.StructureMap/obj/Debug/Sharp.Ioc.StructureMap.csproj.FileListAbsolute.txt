@@ -1,0 +1,12 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\Sharp.Ioc.StructureMap.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\Sharp.Ioc.StructureMap.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\Sharp.Ioc.Base.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\StructureMap.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\Sharp.Ioc.Base.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\StructureMap.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\obj\Debug\Sharp.Ioc.StructureMap.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\obj\Debug\Sharp.Ioc.StructureMap.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\obj\Debug\Sharp.Ioc.StructureMap.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.StructureMap\bin\Debug\Common.Logging.dll

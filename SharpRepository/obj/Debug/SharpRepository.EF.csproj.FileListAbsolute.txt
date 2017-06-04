@@ -1,0 +1,14 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\SharpRepository.dll.config
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\SharpRepository.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\SharpRepository.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\EntityFramework.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\MySql.Data.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\EntityFramework.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\obj\Debug\SharpRepository.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository\obj\Debug\SharpRepository.pdb

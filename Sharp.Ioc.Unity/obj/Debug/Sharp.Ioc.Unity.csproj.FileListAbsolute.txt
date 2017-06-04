@@ -1,0 +1,4 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Unity\bin\Debug\Sharp.Ioc.Unity.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Unity\bin\Debug\Sharp.Ioc.Unity.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Unity\obj\Debug\Sharp.Ioc.Unity.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Unity\obj\Debug\Sharp.Ioc.Unity.pdb

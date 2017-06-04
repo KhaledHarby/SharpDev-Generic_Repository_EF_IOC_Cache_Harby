@@ -1,0 +1,17 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\SharpRepository.SqLite.dll.config
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\SharpRepository.SqLite.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\SharpRepository.SqLite.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\EntityFramework.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\EntityFramework.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\obj\Debug\SharpRepository.SqLite.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\obj\Debug\SharpRepository.SqLite.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\obj\Debug\SharpRepository.SqLite.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.SqLite\bin\Debug\Common.Logging.dll

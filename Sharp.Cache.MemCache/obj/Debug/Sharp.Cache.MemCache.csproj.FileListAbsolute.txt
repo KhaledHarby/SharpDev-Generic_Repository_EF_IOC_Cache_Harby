@@ -1,0 +1,7 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\bin\Debug\Sharp.Cache.MemCache.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\bin\Debug\Sharp.Cache.MemCache.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\bin\Debug\Enyim.Caching.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\bin\Debug\Enyim.Caching.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\obj\Debug\Sharp.Cache.MemCache.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\obj\Debug\Sharp.Cache.MemCache.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.MemCache\obj\Debug\Sharp.Cache.MemCache.csprojResolveAssemblyReference.cache

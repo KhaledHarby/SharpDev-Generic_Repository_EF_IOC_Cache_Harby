@@ -1,0 +1,9 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\bin\Debug\Sharp.Cache.AppFabric.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\bin\Debug\Sharp.Cache.AppFabric.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\obj\Debug\Sharp.Cache.AppFabric.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\obj\Debug\Sharp.Cache.AppFabric.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.AppFabric\obj\Debug\Sharp.Cache.AppFabric.pdb

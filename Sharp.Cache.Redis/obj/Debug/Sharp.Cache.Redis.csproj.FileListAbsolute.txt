@@ -1,0 +1,16 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\Sharp.Cache.Redis.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\Sharp.Cache.Redis.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\SharpRepository.MsSql.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\StackExchange.Redis.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\Common.Logging.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\EntityFramework.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\SharpRepository.MsSql.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\StackExchange.Redis.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\bin\Debug\EntityFramework.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\obj\Debug\Sharp.Cache.Redis.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\obj\Debug\Sharp.Cache.Redis.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Cache.Redis\obj\Debug\Sharp.Cache.Redis.pdb

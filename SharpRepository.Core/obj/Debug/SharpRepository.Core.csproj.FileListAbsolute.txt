@@ -1,0 +1,4 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\bin\Debug\SharpRepository.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\bin\Debug\SharpRepository.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\obj\Debug\SharpRepository.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\obj\Debug\SharpRepository.Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\SharpRepository.MySql.dll.config
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\SharpRepository.MySql.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\SharpRepository.MySql.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\EntityFramework.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\MySql.Data.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\EntityFramework.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\obj\Debug\SharpRepository.MySql.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\obj\Debug\SharpRepository.MySql.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\obj\Debug\SharpRepository.MySql.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.MySql\bin\Debug\Common.Logging.dll

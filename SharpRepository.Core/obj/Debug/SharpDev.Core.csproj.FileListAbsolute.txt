@@ -1,0 +1,6 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\bin\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\bin\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\obj\Debug\SharpDev.Core.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\obj\Debug\SharpDev.Core.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\bin\Debug\Common.Logging.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\SharpRepository.Core\obj\Debug\SharpDev.Core.csprojResolveAssemblyReference.cache

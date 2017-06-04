@@ -1,0 +1,4 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.DryIoc\bin\Debug\Sharp.Ioc.DryIoc.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.DryIoc\bin\Debug\Sharp.Ioc.DryIoc.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.DryIoc\obj\Debug\Sharp.Ioc.DryIoc.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.DryIoc\obj\Debug\Sharp.Ioc.DryIoc.pdb

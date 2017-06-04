@@ -1,0 +1,4 @@
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Windsor\bin\Debug\Sharp.Ioc.Windsor.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Windsor\bin\Debug\Sharp.Ioc.Windsor.pdb
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Windsor\obj\Debug\Sharp.Ioc.Windsor.dll
+C:\Users\khaled.harby\Desktop\SharpRepository\SharpRepository\Sharp.Ioc.Windsor\obj\Debug\Sharp.Ioc.Windsor.pdb
